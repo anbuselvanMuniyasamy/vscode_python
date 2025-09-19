@@ -1,0 +1,58 @@
+{
+    "38b576da": {
+        "account_no": "38b576da",
+        "username": "anbu",
+        "pan": "rtyu34567",
+        "address": "no.4 , gandhi street , chennai - 6000117",
+        "password": "",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "3bef4fbb": {
+        "account_no": "3bef4fbb",
+        "username": "anbuselvan",
+        "pan": "anbu123",
+        "address": "no.4, gandhi street, chennai - 6000117",
+        "password": "",
+        "balance": 10000.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 12000.0,
+                "date": "2025-08-07 18:54:55"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 2000.0,
+                "date": "2025-08-07 18:55:01"
+            }
+        ]
+    },
+    "1003": {
+        "account_no": "1003",
+        "username": "anbu",
+        "pan": "12345",
+        "address": "qwertyu",
+        "password": "qwer",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "1004": {
+        "account_no": "1004",
+        "username": "peter",
+        "pan": "098765",
+        "address": "poiu",
+        "password": "1234",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "1005": {
+        "account_no": "1005",
+        "username": "lal",
+        "pan": "123456",
+        "address": "qwer",
+        "password": "asd",
+        "balance": 0.0,
+        "transactions": []
+    }
+}
