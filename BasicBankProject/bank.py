@@ -67,8 +67,9 @@ accounts = {}  # Dictionary to store all accounts (account_no: Bank object)
 
 while True:
     print("1. Create Account\n2. Login\n3. Exit")
-    choice = input("Enter choice: ")            # User selects an option
-
+    choice = input("Enter choice: ")           # User selects an option
+    print("------------------------------------------------\n")
+    
     # ----------------- CREATE ACCOUNT -----------------
     if choice == "1":
         username = input("Name: ")
