@@ -1,5 +1,5 @@
-# 1) CHECK IF A NUMBER IS ODD OR EVEN.
-    #  USING RECURSIVE FUNCTION.
+# # 1) CHECK IF A NUMBER IS ODD OR EVEN.
+#     #  USING RECURSIVE FUNCTION.
 n = int(input("Enter a number:"))
 def check(n):
     if(n < 2):

@@ -19,7 +19,7 @@
 
     # other method using loop
 
-    # Ask the user how many subjects there are
+#     # Ask the user how many subjects there are
 num_subjects = int(input("Enter the number of subjects: "))
 
 marks = []

@@ -6,12 +6,12 @@
 # print(f"Factorial of the number is: {fact}")
 
    # using recursion
-n = int(input("Enter number: "))
-def factorial(n):
-    if n <= 1:
-        return 1
-    else:
-        return n * factorial(n - 1)
 
-print(f"Factorial of the number is: {factorial(n)}")
+# def factorial(n):
+#     if n <= 1:
+#         return 1
+#     else:
+#         return n * factorial(n - 1)
+# n = int(input("Enter number: "))
+# print(f"Factorial of the number is: {factorial(n)}")
 

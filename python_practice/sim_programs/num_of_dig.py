@@ -1,9 +1,9 @@
-# using loop
+# # using loop
 # num = int(input("Enther the number to sum of the digits: "))
 # count = 0
 # while(num>0):
-#     count += 1
 #     num = num // 10 
+#     count += 1
 # print(f"The sum of the digit is  {count}")
 
 
